@@ -79,3 +79,5 @@ We can put everything we've learned into practice by building our own simple
 machine learning API.
 
 **Don't forget to stop all your apps when you are finished.**
+
+COOL
